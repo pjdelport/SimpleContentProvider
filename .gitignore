@@ -6,3 +6,9 @@ test/.project
 test/.classpath
 local.properties
 build.xml
+
+# Gradle build
+build/
+
+# Android Studio
+*.iml
